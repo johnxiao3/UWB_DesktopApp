@@ -1,0 +1,10 @@
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.csprojAssemblyReference.cache
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.Form1.resources
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.Properties.Resources.resources
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.csproj.GenerateResource.cache
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\bin\Debug\UWB_DesktopApp.exe.config
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\bin\Debug\UWB_DesktopApp.exe
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\bin\Debug\UWB_DesktopApp.pdb
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.exe
+C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.pdb

@@ -8,3 +8,13 @@ C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopA
 C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\bin\Debug\UWB_DesktopApp.pdb
 C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.exe
 C:\Users\jinyu\OneDrive\Documents\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.pdb
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\bin\Debug\UWB_DesktopApp.exe.config
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\bin\Debug\UWB_DesktopApp.exe
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\bin\Debug\UWB_DesktopApp.pdb
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.csprojAssemblyReference.cache
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.Form1.resources
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.Properties.Resources.resources
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.csproj.GenerateResource.cache
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.csproj.CoreCompileInputs.cache
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.exe
+D:\UWB\UWB_DesktopApp\UWB_DesktopApp\UWB_DesktopApp\obj\Debug\UWB_DesktopApp.pdb
